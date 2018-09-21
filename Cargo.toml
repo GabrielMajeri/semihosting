@@ -1,0 +1,15 @@
+[package]
+name = "semihosting"
+version = "0.1.0"
+authors = ["Gabriel Majeri <gabriel.majeri6@gmail.com>"]
+edition = "2018"
+description = "ARMv8 semihosting support"
+license = "MPL-2.0"
+readme = "README.md"
+repository = "https://github.com/GabrielMajeri/semihosting"
+categories = ["development-tools::debugging", "embedded"]
+
+[badges]
+gitlab = { repository = "https://github.com/GabrielMajeri/semihosting", branch = "master" }
+is-it-maintained-issue-resolution = { repository = "https://github.com/GabrielMajeri/semihosting" }
+is-it-maintained-open-issues = { repository = "https://github.com/GabrielMajeri/semihosting" }
